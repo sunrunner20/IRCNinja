@@ -1,0 +1,6 @@
+action,IRCevent
+Quits,quit
+Joins,join
+Parts,part
+topic,topic
+kicked,kicked

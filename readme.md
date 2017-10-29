@@ -1,0 +1,1 @@
+Credits to FlatIcon for the Logo under the CC BY 2.0 License
